@@ -17,22 +17,23 @@ Day - X/
 ## 📋 Progress Tracker
 
 ### ✅ Completed Days
-- [x] **Day 1** - Foundation Setup
+- [x] **Day 1** - Linux User Setup with Non-Interactive Shell
 - [x] **Day 2** - Temporary User Setup with Expiry
-- [x] **Day 3** - Advanced Configuration Management
-- [x] **Day 4** - System Administration Tasks
-- [x] **Day 5** - Configuration File Management
-- [x] **Day 6** - Multi-Server User Management
-- [x] **Day 7** - Advanced System Operations
-- [x] **Day 8** - System Monitoring and Management
-- [x] **Day 9** - Complex System Configuration
-- [x] **Day 10** - Advanced DevOps Operations
-- [x] **Day 11** - System Integration Tasks
-- [x] **Day 12** - Infrastructure Management
-- [x] **Day 13** - Multi-Environment Setup
+- [x] **Day 3** - Secure Root SSH Access
+- [x] **Day 4** - Script Execution Permissions
+- [x] **Day 5** - SElinux Installation and Configuration
+- [x] **Day 6** - Create a Cron Job
+- [x] **Day 7** - Linux SSH Authentication
+- [x] **Day 8** - Install Ansible
+- [x] **Day 9** - MariaDB Troubleshooting
+- [x] **Day 10** - Linux Bash Scripts
+- [x] **Day 11** - Install and Configure Tomcat Server
+- [x] **Day 12** - Linux Network Services
+- [x] **Day 13** - IPtables Installation And Configuration
+- [x] **Day 14** - Linux Process Troubleshooting
 
 ### 🔄 In Progress
-- [ ] **Day 14** - *Coming Soon*
+- [ ] **Day 15** - *Coming Soon*
 
 ### 📅 Upcoming Days (15-100)
 *Will be updated as progress continues...*
@@ -61,11 +62,11 @@ Day - X/
 - Develop automation and scripting capabilities
 
 ## 📊 Challenge Statistics
-- **Days Completed**: 13/100
+- **Days Completed**: 14/100
 - **Success Rate**: 100%
-- **Current Streak**: 13 days
-- **Start Date**: *[Add your start date]*
-- **Target Completion**: *[Add target date]*
+- **Current Streak**: 14 days
+- **Start Date**: October 20, 2024
+- **Target Completion**: January 28, 2025
 
 ## 🔗 Resources
 - [KodeKloud Platform](https://kodekloud.com/)
@@ -81,5 +82,5 @@ Day - X/
 Feel free to reach out if you have questions about any of the solutions or want to discuss DevOps practices!
 
 ---
-*Last Updated: [Current Date]*
-*Challenge Progress: 13% Complete*
+*Last Updated: November 3, 2024*
+*Challenge Progress: 14% Complete*
