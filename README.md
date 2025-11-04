@@ -31,11 +31,12 @@ Day - X/
 - [x] **Day 12** - Linux Network Services
 - [x] **Day 13** - IPtables Installation And Configuration
 - [x] **Day 14** - Linux Process Troubleshooting
+- [x] **Day 15** - Setup SSL for Nginx
 
 ### 🔄 In Progress
-- [ ] **Day 15** - *Coming Soon*
+- [ ] **Day 16** - *Coming Soon*
 
-### 📅 Upcoming Days (15-100)
+### 📅 Upcoming Days (16-100)
 *Will be updated as progress continues...*
 
 ## 🛠️ Technologies & Tools Covered
@@ -62,9 +63,9 @@ Day - X/
 - Develop automation and scripting capabilities
 
 ## 📊 Challenge Statistics
-- **Days Completed**: 14/100
+- **Days Completed**: 15/100
 - **Success Rate**: 100%
-- **Current Streak**: 14 days
+- **Current Streak**: 15 days
 - **Start Date**: October 20, 2024
 - **Target Completion**: January 28, 2025
 
@@ -82,5 +83,5 @@ Day - X/
 Feel free to reach out if you have questions about any of the solutions or want to discuss DevOps practices!
 
 ---
-*Last Updated: November 3, 2024*
-*Challenge Progress: 14% Complete*
+*Last Updated: November 4, 2025*
+*Challenge Progress: 15% Complete*
