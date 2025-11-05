@@ -32,11 +32,12 @@ Day - X/
 - [x] **Day 13** - IPtables Installation And Configuration
 - [x] **Day 14** - Linux Process Troubleshooting
 - [x] **Day 15** - Setup SSL for Nginx
+- [x] **Day 16** - Install and Configure Nginx as an LBR
 
 ### 🔄 In Progress
-- [ ] **Day 16** - *Coming Soon*
+- [ ] **Day 17** - *Coming Soon*
 
-### 📅 Upcoming Days (16-100)
+### 📅 Upcoming Days (17-100)
 *Will be updated as progress continues...*
 
 ## 🛠️ Technologies & Tools Covered
@@ -63,9 +64,9 @@ Day - X/
 - Develop automation and scripting capabilities
 
 ## 📊 Challenge Statistics
-- **Days Completed**: 15/100
+- **Days Completed**: 16/100
 - **Success Rate**: 100%
-- **Current Streak**: 15 days
+- **Current Streak**: 16 days
 - **Start Date**: October 20, 2024
 - **Target Completion**: January 28, 2025
 
@@ -83,5 +84,5 @@ Day - X/
 Feel free to reach out if you have questions about any of the solutions or want to discuss DevOps practices!
 
 ---
-*Last Updated: November 4, 2025*
-*Challenge Progress: 15% Complete*
+*Last Updated: November 5, 2025*
+*Challenge Progress: 16% Complete*
