@@ -34,11 +34,12 @@ Day - X/
 - [x] **Day 15** - Setup SSL for Nginx
 - [x] **Day 16** - Install and Configure Nginx as an LBR
 - [x] **Day 17** - Install and Configure PostgreSQL
+- [x] **Day 18** - Configure LAMP Server
 
 ### 🔄 In Progress
-- [ ] **Day 18** - *Coming Soon*
+- [ ] **Day 19** - *Coming Soon*
 
-### 📅 Upcoming Days (18-100)
+### 📅 Upcoming Days (19-100)
 *Will be updated as progress continues...*
 
 ## 🛠️ Technologies & Tools Covered
@@ -65,9 +66,9 @@ Day - X/
 - Develop automation and scripting capabilities
 
 ## 📊 Challenge Statistics
-- **Days Completed**: 17/100
+- **Days Completed**: 18/100
 - **Success Rate**: 100%
-- **Current Streak**: 17 days
+- **Current Streak**: 18 days
 - **Start Date**: October 20, 2024
 - **Target Completion**: January 28, 2025
 
@@ -85,5 +86,5 @@ Day - X/
 Feel free to reach out if you have questions about any of the solutions or want to discuss DevOps practices!
 
 ---
-*Last Updated: November 6, 2025*
-*Challenge Progress: 17% Complete*
+*Last Updated: November 7, 2025*
+*Challenge Progress: 18% Complete*
