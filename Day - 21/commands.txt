@@ -1,0 +1,5 @@
+ssh natasha@ststor01
+password : Bl@kW 
+sudo -i
+yum install git -y
+git init --bare /opt/media.git 
