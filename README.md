@@ -37,11 +37,12 @@ Day - X/
 - [x] **Day 18** - Configure LAMP Server
 - [x] **Day 19** - Install and Configure Web Application
 - [x] **Day 20** - Configure Nginx + PHP-FPM Using Unix Sock
+- [x] **Day 21** - Set Up Git Repository on Storage Server
 
 ### 🔄 In Progress
-- [ ] **Day 21** - *Coming Soon*
+- [ ] **Day 22** - *Coming Soon*
 
-### 📅 Upcoming Days (21-100)
+### 📅 Upcoming Days (22-100)
 *Will be updated as progress continues...*
 
 ## 🛠️ Technologies & Tools Covered
@@ -68,9 +69,9 @@ Day - X/
 - Develop automation and scripting capabilities
 
 ## 📊 Challenge Statistics
-- **Days Completed**: 20/100
+- **Days Completed**: 21/100
 - **Success Rate**: 100%
-- **Current Streak**: 20 days
+- **Current Streak**: 21 days
 - **Start Date**: October 20, 2024
 - **Target Completion**: January 28, 2025
 
@@ -89,4 +90,4 @@ Feel free to reach out if you have questions about any of the solutions or want 
 
 ---
 *Last Updated: November 9, 2025*
-*Challenge Progress: 20% Complete*
+*Challenge Progress: 21% Complete*
