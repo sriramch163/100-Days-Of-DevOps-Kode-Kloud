@@ -1,0 +1,5 @@
+ssh natasha@ststor01
+mkdir -p /usr/src/kodekloudrepos
+cd /usr/src/kodekloudrepos
+git clone /opt/demo.git
+ls -l /usr/src/kodekloudrepos
