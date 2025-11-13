@@ -1,0 +1,6 @@
+ssh natasha@ststor01
+sudo -i
+cd path
+git branch --list
+git checkout master
+git checkout -b xfusioncorp_news
