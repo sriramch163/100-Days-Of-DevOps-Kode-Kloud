@@ -1,0 +1,13 @@
+ssh natasha@ststor01
+sudo -i
+cd /usr/src/kodekloudrepos/blog
+git branch
+git checkout -b devops
+cp /tmp/index.html .
+ls -l
+git add "index.html"
+git commit -m "updated index.html"
+git checkout master
+ls -l
+git merge devops master
+git push
