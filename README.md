@@ -41,9 +41,10 @@ Day - X/
 - [x] **Day 22** - Clone Git Repository on Storage Server
 - [x] **Day 23** - Fork a Git Repository
 - [x] **Day 24** - Git Create Branches
+- [x] **Day 25** - Git Merge Branches
 
 ### 🔄 In Progress
-- [ ] **Day 25** - *Coming Soon*
+- [ ] **Day 26** - *Coming Soon*
 
 ### 📅 Upcoming Days (24-100)
 *Will be updated as progress continues...*
@@ -72,9 +73,9 @@ Day - X/
 - Develop automation and scripting capabilities
 
 ## 📊 Challenge Statistics
-- **Days Completed**: 24/100
+- **Days Completed**: 25/100
 - **Success Rate**: 100%
-- **Current Streak**: 24 days
+- **Current Streak**: 25 days
 - **Start Date**: October 20, 2024
 - **Target Completion**: January 28, 2025
 
@@ -92,5 +93,5 @@ Day - X/
 Feel free to reach out if you have questions about any of the solutions or want to discuss DevOps practices!
 
 ---
-*Last Updated: November 13, 2025*
-*Challenge Progress: 24% Complete*
+*Last Updated: November 14, 2025*
+*Challenge Progress: 25% Complete*
