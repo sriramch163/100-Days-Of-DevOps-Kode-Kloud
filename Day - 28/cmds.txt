@@ -1,0 +1,11 @@
+ssh natasha@ststor01
+sudo -i
+cd /usr/src/kodekloudrepos 
+ls
+cd demo
+git branch
+git log --oneline
+git checkout master
+git branch
+git cherry-pick 522db02
+git push 
