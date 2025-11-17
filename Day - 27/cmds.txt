@@ -1,0 +1,10 @@
+ssh natasha@ststor01
+sudo -i
+cd /usr/src/kodekloudrepos/apps 
+git log
+git revert HEAD
+:x
+git log 
+git status
+git add 
+git commit -m "revert apps"
