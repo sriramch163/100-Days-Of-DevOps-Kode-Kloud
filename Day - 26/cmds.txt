@@ -1,0 +1,11 @@
+ssh natasha@ststor01
+sudo -i
+cd /usr/src/kodekloudrepos/demo 
+git branch
+git remote
+git remote add dev_demo /opt/xfusioncorp_demo.git 
+git remote
+cp /tmp/index.html  .
+git add index.html
+git commit -m "Updated index.html"
+git push -u dev_demo 
