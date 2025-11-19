@@ -45,9 +45,11 @@ Day - X/
 - [x] **Day 26** - Git Manage Remotes
 - [x] **Day 27** - Git Revert Some Changes
 - [x] **Day 28** - Git Cherry Pick
+- [x] **Day 29** - Manage Git Pull Requests
+- [x] **Day 30** - Git Hard Reset
 
 ### 🔄 In Progress
-- [ ] **Day 29** - *Coming Soon*
+- [ ] **Day 31** - *Coming Soon*
 
 ### 📅 Upcoming Days (24-100)
 *Will be updated as progress continues...*
@@ -76,9 +78,9 @@ Day - X/
 - Develop automation and scripting capabilities
 
 ## 📊 Challenge Statistics
-- **Days Completed**: 28/100
+- **Days Completed**: 30/100
 - **Success Rate**: 100%
-- **Current Streak**: 28 days
+- **Current Streak**: 30 days
 - **Start Date**: October 20, 2024
 - **Target Completion**: January 28, 2025
 
@@ -96,5 +98,5 @@ Day - X/
 Feel free to reach out if you have questions about any of the solutions or want to discuss DevOps practices!
 
 ---
-*Last Updated: November 17, 2025*
-*Challenge Progress: 28% Complete*
+*Last Updated: November 19, 2025*
+*Challenge Progress: 30% Complete*
