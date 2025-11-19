@@ -1,0 +1,7 @@
+ssh max@ststor01
+ls
+cd story-blog
+ls 
+git branch
+git checkout master
+ls
