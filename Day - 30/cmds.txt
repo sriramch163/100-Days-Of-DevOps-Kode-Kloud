@@ -1,0 +1,8 @@
+ssh natasha@ststor01
+sudo -i
+cd /usr/src/kodekloudrepos/beta
+ls -l
+git log --oneline
+git reset --hard 65873a2
+git log --oneline
+git push --force
