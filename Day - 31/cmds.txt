@@ -1,0 +1,8 @@
+ssh natasha@ststor01
+sudo -i
+cd /usr/src/kodekloudrepos/official 
+ls -l
+git stash list
+git stash apply stash@{1}
+git commit -m "applying stash@{1}"
+git push origin master
