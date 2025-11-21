@@ -1,0 +1,9 @@
+ssh natasha@ststor01
+sudo -i
+cd /usr/src/kodekloudrepos 
+cd ecommerce
+git branch
+git rebase master feature
+git config pull.rebase true
+git pull origin feature 
+git push origin feature
