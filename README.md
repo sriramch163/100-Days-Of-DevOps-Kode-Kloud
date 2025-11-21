@@ -48,9 +48,10 @@ Day - X/
 - [x] **Day 29** - Manage Git Pull Requests
 - [x] **Day 30** - Git Hard Reset
 - [x] **Day 31** - Git Stash
+- [x] **Day 32** - Git Rebase
 
 ### 🔄 In Progress
-- [ ] **Day 32** - *Coming Soon*
+- [ ] **Day 33** - *Coming Soon*
 
 ### 📅 Upcoming Days (24-100)
 *Will be updated as progress continues...*
@@ -79,9 +80,9 @@ Day - X/
 - Develop automation and scripting capabilities
 
 ## 📊 Challenge Statistics
-- **Days Completed**: 31/100
+- **Days Completed**: 32/100
 - **Success Rate**: 100%
-- **Current Streak**: 31 days
+- **Current Streak**: 32 days
 - **Start Date**: October 20, 2024
 - **Target Completion**: January 28, 2025
 
@@ -99,5 +100,5 @@ Day - X/
 Feel free to reach out if you have questions about any of the solutions or want to discuss DevOps practices!
 
 ---
-*Last Updated: November 20, 2025*
-*Challenge Progress: 31% Complete*
+*Last Updated: November 21, 2025*
+*Challenge Progress: 32% Complete*
