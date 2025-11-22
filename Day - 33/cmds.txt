@@ -1,0 +1,16 @@
+ssh max@ststor01
+pwd
+ls
+cd storyblog
+vi story-index.txt
+git add .
+git commit -m "fixed typo and merge conflicts"
+git config --global --edit
+git commit -m "Fixed typo & titles" 
+git push origin master
+git pull origin master
+vi story-index.txt
+git add . 
+git commit -m "Fixed typo & titles" 
+git push origin master
+git pull origin master
