@@ -1,0 +1,26 @@
+ssh natasha@ststor01
+sudo -i
+cd /usr/src/kodekloudrepos/ecommerce
+git branch
+git checkout master
+git merge feature
+vi /opt/ecommerce.git/hooks/post-update
+
+#!/bin/bash
+
+# Get current date in YYYY-MM-DD format
+current_date=$(date +%Y-%m-%d)
+
+# Define the tag name
+tag_name="release-$current_date"
+
+# Create the tag on the master branch
+git tag $tag_name master
+
+echo "Tag $tag_name created successfully.
+
+chmod +x /opt/ecommerce.git/hooks/post-update 
+
+
+git push
+git ls-remote --tags origin
