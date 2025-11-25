@@ -1,0 +1,6 @@
+ssh tony@stapp01
+sudo -i
+docker --version
+systemctl status docker 
+docker run -d --name nginx_1 nginx:alpine
+docker ps
