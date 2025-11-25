@@ -52,11 +52,12 @@ Day - X/
 - [x] **Day 33** - Resolve Git Merge Conflicts
 - [x] **Day 34** - Git Hooks
 - [x] **Day 35** - Install Docker Packages and Start Docker Service
+- [x] **Day 36** - Deploy Nginx Container on Application Server
 
 ### 🔄 In Progress
-- [ ] **Day 36** - *Coming Soon*
+- [ ] **Day 37** - *Coming Soon*
 
-### 📅 Upcoming Days (36-100)
+### 📅 Upcoming Days (37-100)
 *Will be updated as progress continues...*
 
 ## 🛠️ Technologies & Tools Covered
@@ -83,9 +84,9 @@ Day - X/
 - Develop automation and scripting capabilities
 
 ## 📊 Challenge Statistics
-- **Days Completed**: 35/100
+- **Days Completed**: 36/100
 - **Success Rate**: 100%
-- **Current Streak**: 35 days
+- **Current Streak**: 36 days
 - **Start Date**: October 20, 2024
 - **Target Completion**: January 28, 2025
 
@@ -103,5 +104,5 @@ Day - X/
 Feel free to reach out if you have questions about any of the solutions or want to discuss DevOps practices!
 
 ---
-*Last Updated: November 24, 2025*
-*Challenge Progress: 35% Complete*
+*Last Updated: November 25, 2025*
+*Challenge Progress: 36% Complete*
