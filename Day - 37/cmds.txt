@@ -1,0 +1,3 @@
+ssh tony@stapp01
+sudo -i
+docker cp /tmp/nautilus.txt.gpg ubuntu_latest:/home/
