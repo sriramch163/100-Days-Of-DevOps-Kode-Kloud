@@ -1,0 +1,6 @@
+ssh tony@stapp01
+sudo -i
+docker pull busybox:musl
+docker images
+docker tag busybox:musl busybox:media
+docker images
