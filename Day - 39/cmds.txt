@@ -1,0 +1,5 @@
+ssh tony@staapp01
+sudo -i
+docker images
+docker ps
+docker commit ubuntu_latest news:nautilus 
