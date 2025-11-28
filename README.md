@@ -55,11 +55,12 @@ Day - X/
 - [x] **Day 36** - Deploy Nginx Container on Application Server
 - [x] **Day 37** - Copy File to Docker Container
 - [x] **Day 38** - Pull Docker Image
+- [x] **Day 39** - Create a Docker Image From Container
 
 ### 🔄 In Progress
-- [ ] **Day 39** - *Coming Soon*
+- [ ] **Day 40** - *Coming Soon*
 
-### 📅 Upcoming Days (39-100)
+### 📅 Upcoming Days (40-100)
 *Will be updated as progress continues...*
 
 ## 🛠️ Technologies & Tools Covered
@@ -86,9 +87,9 @@ Day - X/
 - Develop automation and scripting capabilities
 
 ## 📊 Challenge Statistics
-- **Days Completed**: 38/100
+- **Days Completed**: 39/100
 - **Success Rate**: 100%
-- **Current Streak**: 38 days
+- **Current Streak**: 39 days
 - **Start Date**: October 20, 2024
 - **Target Completion**: January 28, 2025
 
@@ -106,5 +107,5 @@ Day - X/
 Feel free to reach out if you have questions about any of the solutions or want to discuss DevOps practices!
 
 ---
-*Last Updated: November 27, 2025*
-*Challenge Progress: 38% Complete*
+*Last Updated: November 28, 2025*
+*Challenge Progress: 39% Complete*
