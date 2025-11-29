@@ -1,0 +1,11 @@
+ssh steve@stapp02
+sudo -i
+docker ps
+echo $SHELL
+docker exec -it kkloud  bash
+apt install apache2 -y
+cat /etc/apache2/ports.conf
+sed -i 's/Listen 80/Listen 8085/g' /etc/apache2/ports.conf 
+service apache2 start
+service apache2 status
+curl http://localhost:8085
