@@ -1,0 +1,6 @@
+ssh banner@stapp03
+sudo -i
+vi /opt/docker/Dockerfile
+cd /opt/docker
+docker build -t custom-apache-img .
+docker run -d -p 6000:6000 --name apache6400 custom-apache-img
