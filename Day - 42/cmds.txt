@@ -1,0 +1,4 @@
+ssh steve@stapp02
+sudo -i
+docker network create -d bridge --subnet 10.10.1.0/24 --ip-range 10.10.1.0/24 media 
+docker network ls 
