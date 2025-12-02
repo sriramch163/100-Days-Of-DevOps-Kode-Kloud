@@ -1,0 +1,5 @@
+ssh banner@stapp03
+sudo -i
+docker pull nginx:alpine-perl 
+docker run -d --name games -p 8087:80 nginx:alpine-perl  
+docker ps
