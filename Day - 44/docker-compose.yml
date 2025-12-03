@@ -1,0 +1,8 @@
+services:
+  httpd_service:
+    image: httpd
+    container_name: httpd
+    ports:
+    - "5001:80"
+    volumes:
+    - /opt/finance:/usr/local/apache2/htdocs

@@ -1,0 +1,9 @@
+ssh banner@stapp03
+sudo -i
+vi /opt/docker/docker-compose.yml
+
+cd /opt/docker/
+docker compose up -d
+docker ps
+docker images
+curl http://localhost:8083
