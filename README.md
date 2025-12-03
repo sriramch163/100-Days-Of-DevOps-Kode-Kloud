@@ -60,11 +60,12 @@ Day - X/
 - [x] **Day 41** - Write a Docker File Operations
 - [x] **Day 42** - Create a Docker Network Operations
 - [x] **Day 43** - Docker Ports Mapping
+- [x] **Day 44** - Write a Docker Compose File
 
 ### 🔄 In Progress
-- [ ] **Day 44** - *Coming Soon*
+- [ ] **Day 45** - *Coming Soon*
 
-### 📅 Upcoming Days (44-100)
+### 📅 Upcoming Days (45-100)
 *Will be updated as progress continues...*
 
 ## 🛠️ Technologies & Tools Covered
@@ -91,9 +92,9 @@ Day - X/
 - Develop automation and scripting capabilities
 
 ## 📊 Challenge Statistics
-- **Days Completed**: 43/100
+- **Days Completed**: 44/100
 - **Success Rate**: 100%
-- **Current Streak**: 43 days
+- **Current Streak**: 44 days
 - **Start Date**: October 20, 2024
 - **Target Completion**: January 28, 2025
 
@@ -111,5 +112,5 @@ Day - X/
 Feel free to reach out if you have questions about any of the solutions or want to discuss DevOps practices!
 
 ---
-*Last Updated: December 02, 2025*
-*Challenge Progress: 43% Complete*
+*Last Updated: December 03, 2025*
+*Challenge Progress: 44% Complete*
