@@ -1,0 +1,8 @@
+ssh tony@stapp01
+sudo -i
+cd /opt/finance
+ls
+vi docker-compose.yml
+docker compose up -d
+docker ps
+curl localhost:6000/
