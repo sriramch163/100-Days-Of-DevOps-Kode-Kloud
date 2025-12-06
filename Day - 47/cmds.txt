@@ -1,0 +1,9 @@
+banner@stapp03
+sudo -i
+cd python_app/
+ls
+vi Dockerfile
+docker build -t nautilus/python-app .
+docker run -d -p 8099:6000 --name pythonapp_nautilus nautilus/python-app
+docker ps
+curl http://localhost:8099/
