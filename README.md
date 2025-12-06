@@ -63,11 +63,12 @@ Day - X/
 - [x] **Day 44** - Write a Docker Compose File
 - [x] **Day 45** - Resolve Dockerfile Issues
 - [x] **Day 46** - Deploy an App on Docker Container
+- [x] **Day 47** - Docker Python App
 
 ### 🔄 In Progress
-- [ ] **Day 47** - *Coming Soon*
+- [ ] **Day 48** - *Coming Soon*
 
-### 📅 Upcoming Days (47-100)
+### 📅 Upcoming Days (48-100)
 *Will be updated as progress continues...*
 
 ## 🛠️ Technologies & Tools Covered
@@ -94,9 +95,9 @@ Day - X/
 - Develop automation and scripting capabilities
 
 ## 📊 Challenge Statistics
-- **Days Completed**: 46/100
+- **Days Completed**: 47/100
 - **Success Rate**: 100%
-- **Current Streak**: 46 days
+- **Current Streak**: 47 days
 - **Start Date**: October 20, 2024
 - **Target Completion**: January 28, 2025
 
@@ -114,5 +115,5 @@ Day - X/
 Feel free to reach out if you have questions about any of the solutions or want to discuss DevOps practices!
 
 ---
-*Last Updated: December 05, 2025*
-*Challenge Progress: 46% Complete*
+*Last Updated: December 06, 2025*
+*Challenge Progress: 47% Complete*
