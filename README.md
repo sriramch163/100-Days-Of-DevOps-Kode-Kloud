@@ -64,11 +64,13 @@ Day - X/
 - [x] **Day 45** - Resolve Dockerfile Issues
 - [x] **Day 46** - Deploy an App on Docker Container
 - [x] **Day 47** - Docker Python App
+- [x] **Day 48** - Deploy Pods in Kubernetes Cluster
+
 
 ### 🔄 In Progress
-- [ ] **Day 48** - *Coming Soon*
+- [ ] **Day 49** - *Coming Soon*
 
-### 📅 Upcoming Days (48-100)
+### 📅 Upcoming Days (49-100)
 *Will be updated as progress continues...*
 
 ## 🛠️ Technologies & Tools Covered
@@ -115,5 +117,5 @@ Day - X/
 Feel free to reach out if you have questions about any of the solutions or want to discuss DevOps practices!
 
 ---
-*Last Updated: December 06, 2025*
+*Last Updated: December 07, 2025*
 *Challenge Progress: 47% Complete*
