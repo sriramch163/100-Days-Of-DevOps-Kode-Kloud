@@ -65,12 +65,12 @@ Day - X/
 - [x] **Day 46** - Deploy an App on Docker Container
 - [x] **Day 47** - Docker Python App
 - [x] **Day 48** - Deploy Pods in Kubernetes Cluster
-
+- [x] **Day 49** - Deploy Applications with Kubernetes Deployments
 
 ### 🔄 In Progress
-- [ ] **Day 49** - *Coming Soon*
+- [ ] **Day 50** - *Coming Soon*
 
-### 📅 Upcoming Days (49-100)
+### 📅 Upcoming Days (50-100)
 *Will be updated as progress continues...*
 
 ## 🛠️ Technologies & Tools Covered
@@ -97,9 +97,9 @@ Day - X/
 - Develop automation and scripting capabilities
 
 ## 📊 Challenge Statistics
-- **Days Completed**: 47/100
+- **Days Completed**: 49/100
 - **Success Rate**: 100%
-- **Current Streak**: 47 days
+- **Current Streak**: 49 days
 - **Start Date**: October 20, 2024
 - **Target Completion**: January 28, 2025
 
@@ -117,5 +117,5 @@ Day - X/
 Feel free to reach out if you have questions about any of the solutions or want to discuss DevOps practices!
 
 ---
-*Last Updated: December 07, 2025*
-*Challenge Progress: 47% Complete*
+*Last Updated: December 08, 2025*
+*Challenge Progress: 49% Complete*
