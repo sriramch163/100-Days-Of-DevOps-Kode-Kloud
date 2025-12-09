@@ -1,0 +1,3 @@
+vi httpd-pod.yaml
+kubectl create -f httpd-pod.yaml
+kubectl get pods
