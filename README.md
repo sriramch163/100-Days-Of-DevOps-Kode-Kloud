@@ -67,11 +67,12 @@ Day - X/
 - [x] **Day 48** - Deploy Pods in Kubernetes Cluster
 - [x] **Day 49** - Deploy Applications with Kubernetes Deployments
 - [x] **Day 50** - Set Resource Limits in Kubernetes Pods
+- [x] **Day 51** - Execute Rolling Updates in Kubernetes
 
 ### 🔄 In Progress
-- [ ] **Day 51** - *Coming Soon*
+- [ ] **Day 52** - *Coming Soon*
 
-### 📅 Upcoming Days (51-100)
+### 📅 Upcoming Days (52-100)
 *Will be updated as progress continues...*
 
 ## 🛠️ Technologies & Tools Covered
@@ -98,9 +99,9 @@ Day - X/
 - Develop automation and scripting capabilities
 
 ## 📊 Challenge Statistics
-- **Days Completed**: 50/100
+- **Days Completed**: 51/100
 - **Success Rate**: 100%
-- **Current Streak**: 50 days
+- **Current Streak**: 51 days
 - **Start Date**: October 20, 2024
 - **Target Completion**: January 28, 2025
 
@@ -118,5 +119,5 @@ Day - X/
 Feel free to reach out if you have questions about any of the solutions or want to discuss DevOps practices!
 
 ---
-*Last Updated: December 09, 2025*
-*Challenge Progress: 50% Complete*
+*Last Updated: December 10, 2025*
+*Challenge Progress: 51% Complete*
