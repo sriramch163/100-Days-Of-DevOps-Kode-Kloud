@@ -1,0 +1,9 @@
+kubectl get pods
+kubectl describe pod nginx-phpfm
+kubectl get cm
+kubectl get pod nginx-phpfpm -o yaml > pod.yaml
+vi pod.yaml
+kubectl delete pods nginx-phpfm
+kubectl create -f pod.yaml
+kubectl get pods
+kubectl cp /home/thoe/index.php nginx-phpfpm:/var/www/html -c nginx-container
