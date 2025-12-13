@@ -1,0 +1,8 @@
+vi volume-share-datacenter.yaml
+kubectl apply -f volume-share-datacenter.yaml
+kubectl get pod volume-share-datacenter
+kubectl exec volume-share-datacenter -c volume-container-datacenter-1 -- bash
+echo "Shared volume test file" > /tmp/news/news.txt
+kubectl exec volume-share-datacenter -c volume-container-datacenter-2 -- bash
+ls /tmp/games  
+cat /tmp/games/news.txt
