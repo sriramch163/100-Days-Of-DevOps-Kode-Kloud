@@ -1,0 +1,6 @@
+vi pod-webserver.yaml
+ls
+kubectl create -f pod-webserver.yaml
+kubectl get pod webserver
+kubectl describe pod webserver
+kubectl logs webserver -c sidecar-container
