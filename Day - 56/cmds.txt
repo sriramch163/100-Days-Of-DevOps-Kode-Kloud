@@ -1,0 +1,6 @@
+vi nginx-deployment.yaml
+vi nginx-service.yaml
+kubectl apply -f nginx-deployment.yaml
+kubectl apply -f nginx-service.yaml
+kubectl get pods
+kubectl get svc
