@@ -1,0 +1,13 @@
+kubectl create deployment grafana-deployment-xfusion \
+  --image=grafana/grafana:latest
+kubectl get deployments
+kubectl get pods
+kubectl expose deployment grafana-deployment-xfusion \
+  --type=NodePort \
+  --name=grafana-service-xfusion \
+  --port=3000 \
+  --target-port=3000 \
+  --dry-run=client -o yaml > grafana-service.yaml
+vi grafana-service.yaml
+kubectl apply -f grafana-service.yaml
+kubectl get svc grafana-service-xfusion
