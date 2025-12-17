@@ -74,11 +74,12 @@ Day - X/
 - [x] **Day 55** - Kubernetes Sidecar Containers
 - [x] **Day 56** - Deploy Nginx Web Server on Kubernetes Cluster
 - [x] **Day 57** - Print Environment Variables
+- [x] **Day 58** - Deploy Grafana on Kubernetes Cluster
 
 ### 🔄 In Progress
-- [ ] **Day 58** - *Coming Soon*
+- [ ] **Day 59** - *Coming Soon*
 
-### 📅 Upcoming Days (58-100)
+### 📅 Upcoming Days (59-100)
 *Will be updated as progress continues...*
 
 ## 🛠️ Technologies & Tools Covered
@@ -105,9 +106,9 @@ Day - X/
 - Develop automation and scripting capabilities
 
 ## 📊 Challenge Statistics
-- **Days Completed**: 57/100
+- **Days Completed**: 58/100
 - **Success Rate**: 100%
-- **Current Streak**: 57 days
+- **Current Streak**: 58 days
 - **Start Date**: October 20, 2024
 - **Target Completion**: January 28, 2025
 
@@ -125,5 +126,5 @@ Day - X/
 Feel free to reach out if you have questions about any of the solutions or want to discuss DevOps practices!
 
 ---
-*Last Updated: December 16, 2024*
-*Challenge Progress: 57% Complete*
+*Last Updated: December 17, 2024*
+*Challenge Progress: 58% Complete*
