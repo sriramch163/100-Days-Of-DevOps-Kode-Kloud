@@ -1,0 +1,8 @@
+kubectl get deployments
+kubectl get pods
+kubectl describe pod redis-deployment-6fd9d5fcb-xwvlx
+kubectl get configmaps
+kubectl get deployment redis-deployment -o yaml
+kubectl edit deployment redis-deployment
+kubectl rollout restart deployment redis-deployment
+kubectl get pods
