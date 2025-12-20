@@ -77,11 +77,12 @@ Day - X/
 - [x] **Day 58** - Deploy Grafana on Kubernetes Cluster
 - [x] **Day 59** - Troubleshoot Deployment Issues in Kubernetes
 - [x] **Day 60** - Persistent Volumes in Kubernetes
+- [x] **Day 61** - Init Containers in Kubernetes
 
 ### 🔄 In Progress
-- [ ] **Day 61** - *Coming Soon*
+- [ ] **Day 62** - *Coming Soon*
 
-### 📅 Upcoming Days (61-100)
+### 📅 Upcoming Days (62-100)
 *Will be updated as progress continues...*
 
 ## 🛠️ Technologies & Tools Covered
@@ -108,9 +109,9 @@ Day - X/
 - Develop automation and scripting capabilities
 
 ## 📊 Challenge Statistics
-- **Days Completed**: 60/100
+- **Days Completed**: 61/100
 - **Success Rate**: 100%
-- **Current Streak**: 60 days
+- **Current Streak**: 61 days
 - **Start Date**: October 20, 2024
 - **Target Completion**: January 28, 2025
 
@@ -128,5 +129,5 @@ Day - X/
 Feel free to reach out if you have questions about any of the solutions or want to discuss DevOps practices!
 
 ---
-*Last Updated: December 19, 2024*
-*Challenge Progress: 60% Complete*
+*Last Updated: December 20, 2024*
+*Challenge Progress: 61% Complete*
