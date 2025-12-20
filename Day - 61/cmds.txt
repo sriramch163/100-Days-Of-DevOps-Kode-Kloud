@@ -1,0 +1,6 @@
+vi ic-deploy-xfusion.yaml
+kubectl apply -f ic-deploy-xfusion.yaml
+kubectl get deployments
+kubectl get pods
+kubectl logs ic-deploy-xfusion-66db7f9695-sxwrc
+
