@@ -1,0 +1,13 @@
+kubectl create secret generic news --from-file=/opt/news.txt
+
+vi secret-nautilus.yaml
+
+kubectl apply -f secret-nautilus.yaml
+
+kubectl get pods
+
+kubectl exec -it secret-nautilus -- /bin/bash
+
+ls /opt/games
+
+cat /opt/games/news.txt
