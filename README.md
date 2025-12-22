@@ -79,11 +79,12 @@ Day - X/
 - [x] **Day 60** - Persistent Volumes in Kubernetes
 - [x] **Day 61** - Init Containers in Kubernetes
 - [x] **Day 62** - Manage Secrets in Kubernetes
+- [x] **Day 63** - Deploy Iron Gallery App on Kubernetes
 
 ### 🔄 In Progress
-- [ ] **Day 63** - *Coming Soon*
+- [ ] **Day 64** - *Coming Soon*
 
-### 📅 Upcoming Days (63-100)
+### 📅 Upcoming Days (64-100)
 *Will be updated as progress continues...*
 
 ## 🛠️ Technologies & Tools Covered
@@ -110,9 +111,9 @@ Day - X/
 - Develop automation and scripting capabilities
 
 ## 📊 Challenge Statistics
-- **Days Completed**: 62/100
+- **Days Completed**: 63/100
 - **Success Rate**: 100%
-- **Current Streak**: 62 days
+- **Current Streak**: 63 days
 - **Start Date**: October 20, 2024
 - **Target Completion**: January 28, 2025
 
@@ -130,5 +131,5 @@ Day - X/
 Feel free to reach out if you have questions about any of the solutions or want to discuss DevOps practices!
 
 ---
-*Last Updated: December 21, 2024*
-*Challenge Progress: 62% Complete*
+*Last Updated: December 22, 2024*
+*Challenge Progress: 63% Complete*
