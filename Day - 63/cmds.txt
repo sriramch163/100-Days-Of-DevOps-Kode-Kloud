@@ -1,0 +1,10 @@
+kubectl create namespace iron-namespace-devops
+vi iron-gallery-deployment-devops.yaml
+kubectl apply -n iron-namespace-devops -f iron-gallery-deployment-devops.yaml
+vi iron-db-deployment-devops.yaml
+kubectl apply -n iron-namespace-devops -f iron-db-deployment-devops.yaml
+vi iron-db-service-devops.yaml
+kubectl apply -n iron-namespace-devops -f iron-db-service-devops.yaml
+vi iron-gallery-service-devops.yaml
+kubectl apply -n iron-namespace-devops -f iron-gallery-service-devops.yaml
+kubectl get all -n iron-namespace-devops
