@@ -1,0 +1,6 @@
+kubectl create configmap my-redis-config --from-literal=redis-config="maxmemory 2mb"
+vi redis-deploy.yaml
+kubectl apply -f redis-deploy.yaml
+kubectl get deployments
+kubectl get pods
+kubectl get cm
