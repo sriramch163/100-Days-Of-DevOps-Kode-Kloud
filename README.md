@@ -83,11 +83,12 @@ Day - X/
 - [x] **Day 64** - Fix Python App Deployed on Kubernetes Cluster
 - [x] **Day 65** - Deploy Redis Deployment on Kubernetes
 - [x] **Day 66** - Deploy MySQL on Kubernetes
+- [x] **Day 67** - Deploy Guest Book App on Kubernetes
 
 ### 🔄 In Progress
-- [ ] **Day 67** - *Coming Soon*
+- [ ] **Day 68** - *Coming Soon*
 
-### 📅 Upcoming Days (67-100)
+### 📅 Upcoming Days (68-100)
 *Will be updated as progress continues...*
 
 ## 🛠️ Technologies & Tools Covered
@@ -114,9 +115,9 @@ Day - X/
 - Develop automation and scripting capabilities
 
 ## 📊 Challenge Statistics
-- **Days Completed**: 66/100
+- **Days Completed**: 67/100
 - **Success Rate**: 100%
-- **Current Streak**: 66 days
+- **Current Streak**: 67 days
 - **Start Date**: October 20, 2024
 - **Target Completion**: January 28, 2025
 
@@ -134,5 +135,5 @@ Day - X/
 Feel free to reach out if you have questions about any of the solutions or want to discuss DevOps practices!
 
 ---
-*Last Updated: December 25, 2024*
-*Challenge Progress: 66% Complete*
+*Last Updated: December 26, 2024*
+*Challenge Progress: 67% Complete*
