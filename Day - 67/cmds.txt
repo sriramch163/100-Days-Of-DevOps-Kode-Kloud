@@ -1,0 +1,4 @@
+vi guestbook-app.yaml
+kubectl apply -f guestbook-app.yaml
+kubectl get pods -w
+kubectl get pods
