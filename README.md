@@ -82,11 +82,12 @@ Day - X/
 - [x] **Day 63** - Deploy Iron Gallery App on Kubernetes
 - [x] **Day 64** - Fix Python App Deployed on Kubernetes Cluster
 - [x] **Day 65** - Deploy Redis Deployment on Kubernetes
+- [x] **Day 66** - Deploy MySQL on Kubernetes
 
 ### 🔄 In Progress
-- [ ] **Day 66** - *Coming Soon*
+- [ ] **Day 67** - *Coming Soon*
 
-### 📅 Upcoming Days (66-100)
+### 📅 Upcoming Days (67-100)
 *Will be updated as progress continues...*
 
 ## 🛠️ Technologies & Tools Covered
@@ -113,9 +114,9 @@ Day - X/
 - Develop automation and scripting capabilities
 
 ## 📊 Challenge Statistics
-- **Days Completed**: 65/100
+- **Days Completed**: 66/100
 - **Success Rate**: 100%
-- **Current Streak**: 65 days
+- **Current Streak**: 66 days
 - **Start Date**: October 20, 2024
 - **Target Completion**: January 28, 2025
 
@@ -133,5 +134,5 @@ Day - X/
 Feel free to reach out if you have questions about any of the solutions or want to discuss DevOps practices!
 
 ---
-*Last Updated: December 24, 2024*
-*Challenge Progress: 65% Complete*
+*Last Updated: December 25, 2024*
+*Challenge Progress: 66% Complete*
