@@ -1,4 +1,4 @@
-# Install Jenkins Plugins
+# Day 69 - Install Jenkins Plugins
 
 ## 🎯 Objective of the Task
 
