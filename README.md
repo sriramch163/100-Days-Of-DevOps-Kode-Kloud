@@ -85,11 +85,12 @@ Day - X/
 - [x] **Day 66** - Deploy MySQL on Kubernetes
 - [x] **Day 67** - Deploy Guest Book App on Kubernetes
 - [x] **Day 68** - Set Up Jenkins Server
+- [x] **Day 69** - Install Jenkins Plugins
 
 ### 🔄 In Progress
-- [ ] **Day 69** - *Coming Soon*
+- [ ] **Day 70** - *Coming Soon*
 
-### 📅 Upcoming Days (69-100)
+### 📅 Upcoming Days (70-100)
 *Will be updated as progress continues...*
 
 ## 🛠️ Technologies & Tools Covered
@@ -116,9 +117,9 @@ Day - X/
 - Develop automation and scripting capabilities
 
 ## 📊 Challenge Statistics
-- **Days Completed**: 68/100
+- **Days Completed**: 69/100
 - **Success Rate**: 100%
-- **Current Streak**: 68 days
+- **Current Streak**: 69 days
 - **Start Date**: October 20, 2024
 - **Target Completion**: January 28, 2025
 
@@ -136,5 +137,5 @@ Day - X/
 Feel free to reach out if you have questions about any of the solutions or want to discuss DevOps practices!
 
 ---
-*Last Updated: December 28, 2024*
-*Challenge Progress: 68% Complete*
+*Last Updated: December 29, 2024*
+*Challenge Progress: 69% Complete*
