@@ -87,12 +87,13 @@ Day - X/
 - [x] **Day 68** - Set Up Jenkins Server
 - [x] **Day 69** - Install Jenkins Plugins
 - [x] **Day 70** - Configure Jenkins User Access
+- [x] **Day 71** - Configure Jenkins Job for Package Installation
 
 ### 🔄 In Progress
-- [ ] **Day 71** - *Coming Soon*
+- [ ] **Day 72** - *Coming Soon*
 
-### 📅 Upcoming Days (71-100)
-- [ ] **Day 71** - Jenkins Build Jobs
+### 📅 Upcoming Days (72-100)
+- [ ] **Day 72** - Jenkins Build Jobs
 - [ ] **Day 72** - Jenkins Pipeline Configuration
 - [ ] **Day 73** - Jenkins Integration with Git
 - [ ] **Day 74** - Jenkins Automated Testing
@@ -129,9 +130,9 @@ Day - X/
 - Develop automation and scripting capabilities
 
 ## 📊 Challenge Statistics
-- **Days Completed**: 70/100
+- **Days Completed**: 71/100
 - **Success Rate**: 100%
-- **Current Streak**: 70 days
+- **Current Streak**: 71 days
 - **Start Date**: October 20, 2024
 - **Target Completion**: January 28, 2025
 
@@ -149,5 +150,5 @@ Day - X/
 Feel free to reach out if you have questions about any of the solutions or want to discuss DevOps practices!
 
 ---
-*Last Updated: December 30, 2024*
-*Challenge Progress: 70% Complete*
+*Last Updated: December 31, 2024*
+*Challenge Progress: 71% Complete*
