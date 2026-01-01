@@ -88,23 +88,46 @@ Day - X/
 - [x] **Day 69** - Install Jenkins Plugins
 - [x] **Day 70** - Configure Jenkins User Access
 - [x] **Day 71** - Configure Jenkins Job for Package Installation
+- [x] **Day 72** - Jenkins Parameterized Builds
 
 ### 🔄 In Progress
-- [ ] **Day 72** - *Coming Soon*
+- [ ] **Day 73** - *Coming Soon*
 
-### 📅 Upcoming Days (72-100)
-- [ ] **Day 72** - Jenkins Build Jobs
-- [ ] **Day 72** - Jenkins Pipeline Configuration
-- [ ] **Day 73** - Jenkins Integration with Git
-- [ ] **Day 74** - Jenkins Automated Testing
-- [ ] **Day 75** - Jenkins Deployment Automation
-- [ ] **Day 76** - Jenkins Monitoring and Alerts
-- [ ] **Day 77** - Jenkins Security Hardening
-- [ ] **Day 78** - Jenkins Backup and Recovery
-- [ ] **Day 79** - Jenkins Performance Optimization
-- [ ] **Day 80** - Advanced Jenkins Configurations
-- [ ] **Days 81-90** - Advanced DevOps Integrations
-- [ ] **Days 91-100** - Capstone Projects and Real-world Scenarios
+### 📅 Upcoming Days (73-100)
+
+🔹 **Jenkins (Days 73–81)**
+- [ ] **Day 73** - Jenkins Scheduled Jobs
+- [ ] **Day 74** - Jenkins Database Backup Job
+- [ ] **Day 75** - Jenkins Agent (Slave) Nodes
+- [ ] **Day 76** - Jenkins Project Security
+- [ ] **Day 77** - Jenkins Deployment Pipeline
+- [ ] **Day 78** - Jenkins Conditional Pipeline
+- [ ] **Day 79** - Jenkins Deployment Job
+- [ ] **Day 80** - Jenkins Chained Builds
+- [ ] **Day 81** - Jenkins Multistage Pipeline
+
+🔹 **Ansible (Days 82–93)**
+- [ ] **Day 82** - Create Ansible Inventory for App Server Testing
+- [ ] **Day 83** - Troubleshoot and Create Ansible Playbook
+- [ ] **Day 84** - Copy Data to App Servers Using Ansible
+- [ ] **Day 85** - Create Files on App Servers Using Ansible
+- [ ] **Day 86** - Ansible Ping Module Usage
+- [ ] **Day 87** - Install Packages Using Ansible
+- [ ] **Day 88** - Ansible Blockinfile Module
+- [ ] **Day 89** - Manage Services Using Ansible
+- [ ] **Day 90** - Manage ACLs Using Ansible
+- [ ] **Day 91** - Ansible Lineinfile Module
+- [ ] **Day 92** - Manage Jinja2 Templates Using Ansible
+- [ ] **Day 93** - Use Ansible Conditionals
+
+🔹 **Terraform & AWS (Days 94–100)**
+- [ ] **Day 94** - Create VPC Using Terraform
+- [ ] **Day 95** - Create Security Group Using Terraform
+- [ ] **Day 96** - Create EC2 Instance Using Terraform
+- [ ] **Day 97** - Create IAM Policy Using Terraform
+- [ ] **Day 98** - Launch EC2 in a Private VPC Subnet Using Terraform
+- [ ] **Day 99** - Attach IAM Policy for DynamoDB Access Using Terraform
+- [ ] **Day 100** - Create and Configure CloudWatch Alarm Using Terraform
 
 ## 🛠️ Technologies & Tools Covered
 - Linux System Administration
@@ -130,9 +153,9 @@ Day - X/
 - Develop automation and scripting capabilities
 
 ## 📊 Challenge Statistics
-- **Days Completed**: 71/100
+- **Days Completed**: 72/100
 - **Success Rate**: 100%
-- **Current Streak**: 71 days
+- **Current Streak**: 72 days
 - **Start Date**: October 20, 2024
 - **Target Completion**: January 28, 2025
 
@@ -150,5 +173,5 @@ Day - X/
 Feel free to reach out if you have questions about any of the solutions or want to discuss DevOps practices!
 
 ---
-*Last Updated: December 31, 2024*
-*Challenge Progress: 71% Complete*
+*Last Updated: January 1, 2026*
+*Challenge Progress: 72% Complete*
