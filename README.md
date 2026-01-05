@@ -92,14 +92,14 @@ Day - X/
 - [x] **Day 73** - Jenkins Scheduled Jobs
 - [x] **Day 74** - Jenkins Database Backup Job
 - [x] **Day 75** - Jenkins Agent (Slave) Nodes
+- [x] **Day 76** - Jenkins Project Security
 
 ### 🔄 In Progress
-- [ ] **Day 76** - *Coming Soon*
+- [ ] **Day 77** - *Coming Soon*
 
-### 📅 Upcoming Days (75-100)
+### 📅 Upcoming Days (77-100)
 
-🔹 **Jenkins (Days 76–81)**
-- [ ] **Day 76** - Jenkins Project Security
+🔹 **Jenkins (Days 77–81)**
 - [ ] **Day 77** - Jenkins Deployment Pipeline
 - [ ] **Day 78** - Jenkins Conditional Pipeline
 - [ ] **Day 79** - Jenkins Deployment Job
@@ -153,9 +153,9 @@ Day - X/
 - Develop automation and scripting capabilities
 
 ## 📊 Challenge Statistics
-- **Days Completed**: 75/100
+- **Days Completed**: 76/100
 - **Success Rate**: 100%
-- **Current Streak**: 75 days
+- **Current Streak**: 76 days
 - **Start Date**: October 20, 2024
 - **Target Completion**: January 28, 2025
 
@@ -173,5 +173,5 @@ Day - X/
 Feel free to reach out if you have questions about any of the solutions or want to discuss DevOps practices!
 
 ---
-*Last Updated: January 4, 2026*
-*Challenge Progress: 75% Complete*
+*Last Updated: January 5, 2026*
+*Challenge Progress: 76% Complete*
