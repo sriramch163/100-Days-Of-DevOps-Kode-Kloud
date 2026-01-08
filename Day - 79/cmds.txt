@@ -1,0 +1,36 @@
+ssh tony@stapp01
+sudo -i
+yum install httpd -y
+vi /etc/httpd/conf/httpd.conf
+Listen 8080
+systemctl start httpd
+systemctl enable httpd
+
+ssh steve@stapp02
+sudo -i
+yum install httpd -y
+vi /etc/httpd/conf/httpd.conf
+Listen 8080
+systemctl start httpd
+systemctl enable httpd
+
+ssh banner@stapp03
+sudo -i
+yum install httpd -y
+vi /etc/httpd/conf/httpd.conf
+Listen 8080
+systemctl start httpd
+systemctl enable httpd
+
+ssh natasha@ststor01
+sudo chown -R sarah:sarah /var/www/html
+
+sshpass -p "$SARAH_PASS" scp -o StrictHostKeyChecking=no -r * sarah@ststor01:/var/www/html
+
+ssh sarah@ststor01
+cd web
+vi index.html
+Welcome to the xFusionCorp Industries
+git add .
+git commit -m "Updated index.html"
+git push origin master
