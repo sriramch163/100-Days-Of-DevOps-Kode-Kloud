@@ -95,14 +95,14 @@ Day - X/
 - [x] **Day 76** - Jenkins Project Security
 - [x] **Day 77** - Jenkins Deploy Pipeline
 - [x] **Day 78** - Jenkins Conditional Pipeline
+- [x] **Day 79** - Jenkins Deployment Job
 
 ### 🔄 In Progress
-- [ ] **Day 79** - *Coming Soon*
+- [ ] **Day 80** - *Coming Soon*
 
-### 📅 Upcoming Days (79-100)
+### 📅 Upcoming Days (80-100)
 
-🔹 **Jenkins (Days 79–81)**
-- [ ] **Day 79** - Jenkins Deployment Job
+🔹 **Jenkins (Days 80–81)**
 - [ ] **Day 80** - Jenkins Chained Builds
 - [ ] **Day 81** - Jenkins Multistage Pipeline
 
@@ -153,9 +153,9 @@ Day - X/
 - Develop automation and scripting capabilities
 
 ## 📊 Challenge Statistics
-- **Days Completed**: 78/100
+- **Days Completed**: 79/100
 - **Success Rate**: 100%
-- **Current Streak**: 78 days
+- **Current Streak**: 79 days
 - **Start Date**: October 20, 2024
 - **Target Completion**: January 28, 2025
 
@@ -173,5 +173,5 @@ Day - X/
 Feel free to reach out if you have questions about any of the solutions or want to discuss DevOps practices!
 
 ---
-*Last Updated: January 7, 2026*
-*Challenge Progress: 78% Complete*
+*Last Updated: January 8, 2026*
+*Challenge Progress: 79% Complete*
