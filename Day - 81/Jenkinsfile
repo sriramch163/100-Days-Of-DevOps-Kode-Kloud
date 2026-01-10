@@ -1,0 +1,30 @@
+pipeline {
+    agent any
+
+    stages {
+        stage('Deploy') {
+            steps {
+                git branch: 'master',
+                    credentialsId: 'sarah-git-creds',
+                    url: 'http://git.stratos.xfusioncorp.com/sarah/web.git'
+
+                withCredentials([usernamePassword(credentialsId: 'ssh-storage-server',
+                    usernameVariable: 'SSH_USER',
+                    passwordVariable: 'SSH_PASS')]) {
+
+                    sh '''
+                    sshpass -p "$SSH_PASS" scp -o StrictHostKeyChecking=no \
+                    index.html $SSH_USER@ststor01:/var/www/html/
+                    '''
+                }
+            }
+        }
+
+        stage('Test') {
+            steps {
+                echo 'Testing Application ...'
+                sh 'curl -f http://stlb01:8091'
+            }
+        }
+    }
+}
