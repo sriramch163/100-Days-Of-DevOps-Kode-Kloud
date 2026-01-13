@@ -1,0 +1,10 @@
+---
+- name: Copy index.html to all application servers
+  hosts: app_servers
+  become: true
+  tasks:
+    - name: Ensure destination directory exists
+      file:
+        path: /opt/devops
+        state: directory
+        mode: '0755'

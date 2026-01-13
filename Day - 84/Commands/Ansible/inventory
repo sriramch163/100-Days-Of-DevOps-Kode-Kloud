@@ -1,0 +1,7 @@
+[app]
+stapp01 ansible_user=tony ansible_ssh_password=Ir0nM@n
+stapp02 ansible_user=steve ansible_ssh_password=Am3ric@
+stapp03 ansible_user=banner ansible_ssh_password=BigGr33n
+
+[all:vars]
+ansible_ssh_common_args='-o StrictHostKeyChecking=no'
