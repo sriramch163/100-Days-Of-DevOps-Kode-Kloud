@@ -99,14 +99,14 @@ Day - X/
 - [x] **Day 80** - Jenkins Chained Builds
 - [x] **Day 81** - Jenkins Multistage Pipeline
 - [x] **Day 82** - Create Ansible Inventory for App Server Testing
+- [x] **Day 83** - Troubleshoot and Create Ansible Playbook
 
 ### 🔄 In Progress
-- [ ] **Day 83** - *Coming Soon*
+- [ ] **Day 84** - *Coming Soon*
 
 ### 📅 Upcoming Days (82-100)
 
-🔹 **Ansible (Days 83–93)**
-- [ ] **Day 83** - Troubleshoot and Create Ansible Playbook
+🔹 **Ansible (Days 84–93)**
 - [ ] **Day 84** - Copy Data to App Servers Using Ansible
 - [ ] **Day 85** - Create Files on App Servers Using Ansible
 - [ ] **Day 86** - Ansible Ping Module Usage
@@ -151,9 +151,9 @@ Day - X/
 - Develop automation and scripting capabilities
 
 ## 📊 Challenge Statistics
-- **Days Completed**: 82/100
+- **Days Completed**: 83/100
 - **Success Rate**: 100%
-- **Current Streak**: 82 days
+- **Current Streak**: 83 days
 - **Start Date**: October 20, 2024
 - **Target Completion**: January 28, 2025
 
@@ -171,5 +171,5 @@ Day - X/
 Feel free to reach out if you have questions about any of the solutions or want to discuss DevOps practices!
 
 ---
-*Last Updated: January 11, 2026*
-*Challenge Progress: 82% Complete*
+*Last Updated: January 12, 2026*
+*Challenge Progress: 83% Complete*
