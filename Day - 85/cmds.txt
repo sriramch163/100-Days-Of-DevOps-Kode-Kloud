@@ -1,0 +1,7 @@
+mkdir -p ~/playbook
+vi ~/playbook/inventory
+vi ~/playbook/playbook.yml
+ansible-playbook -i inventory playbook.yml
+
+
+

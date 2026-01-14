@@ -1,0 +1,32 @@
+---
+- name: Create file with permissions and ownership on app servers
+  hosts: app_servers
+  become: yes
+
+  tasks:
+    - name: Create blank file /tmp/data.txt
+      file:
+        path: /tmp/data.txt
+        state: touch
+        mode: '0744'
+
+    - name: Set owner/group for stapp01
+      file:
+        path: /tmp/data.txt
+        owner: tony
+        group: tony
+      when: inventory_hostname == "stapp01"
+
+    - name: Set owner/group for stapp02
+      file:
+        path: /tmp/data.txt
+        owner: steve
+        group: steve
+      when: inventory_hostname == "stapp02"
+
+    - name: Set owner/group for stapp03
+      file:
+        path: /tmp/data.txt
+        owner: banner
+        group: banner
+      when: inventory_hostname == "stapp03"
