@@ -1,0 +1,7 @@
+ssh-keygen -t rsa -b 2048
+ssh-copy-id tony@stapp01
+ssh tony@stapp01
+exit
+ansible -i /home/thor/ansible/inventory stapp01 -m ping
+vi /home/thor/ansible/inventory
+ansible -i /home/thor/ansible/inventory stapp01 -m ping
