@@ -102,14 +102,14 @@ Day - X/
 - [x] **Day 83** - Troubleshoot and Create Ansible Playbook
 - [x] **Day 84** - Copy Data to App Servers Using Ansible Playbook
 - [x] **Day 85** - Create Files on App Servers Using Ansible
+- [x] **Day 86** - Ansible Ping Module Usage
 
 ### 🔄 In Progress
-- [ ] **Day 86** - *Coming Soon*
+- [ ] **Day 87** - *Coming Soon*
 
 ### 📅 Upcoming Days (82-100)
 
-🔹 **Ansible (Days 86–93)**
-- [ ] **Day 86** - Ansible Ping Module Usage
+🔹 **Ansible (Days 87–93)**
 - [ ] **Day 87** - Install Packages Using Ansible
 - [ ] **Day 88** - Ansible Blockinfile Module
 - [ ] **Day 89** - Manage Services Using Ansible
@@ -151,9 +151,9 @@ Day - X/
 - Develop automation and scripting capabilities
 
 ## 📊 Challenge Statistics
-- **Days Completed**: 85/100
+- **Days Completed**: 86/100
 - **Success Rate**: 100%
-- **Current Streak**: 85 days
+- **Current Streak**: 86 days
 - **Start Date**: October 20, 2024
 - **Target Completion**: January 28, 2025
 
@@ -171,5 +171,5 @@ Day - X/
 Feel free to reach out if you have questions about any of the solutions or want to discuss DevOps practices!
 
 ---
-*Last Updated: January 14, 2026*
-*Challenge Progress: 85% Complete*
+*Last Updated: January 15, 2026*
+*Challenge Progress: 86% Complete*
