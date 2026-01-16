@@ -1,0 +1,11 @@
+---
+- name: Install vim-enhanced on all app servers
+  hosts: app_servers
+  become: yes
+  gather_facts: no
+
+  tasks:
+    - name: Install vim-enhanced package
+      yum:
+        name: vim-enhanced
+        state: present

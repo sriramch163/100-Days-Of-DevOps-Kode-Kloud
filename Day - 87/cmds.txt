@@ -1,0 +1,6 @@
+mkdir -p /home/thor/playbook
+cd /home/thor/playbook
+vi /home/thor/playbook/inventory
+vi /home/thor/playbook/playbook.yml
+chown -R thor:thor /home/thor/playbook
+ansible-playbook -i inventory playbook.yml
