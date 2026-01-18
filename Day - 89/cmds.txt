@@ -1,0 +1,5 @@
+cd /home/thor/ansible
+vi playbook.yml
+ansible-playbook -i inventory playbook.yml
+vi /home/thor/ansible/inventory
+ansible-playbook -i inventory playbook.yml
