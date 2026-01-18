@@ -105,14 +105,14 @@ Day - X/
 - [x] **Day 86** - Ansible Ping Module Usage
 - [x] **Day 87** - Install Packages Using Ansible
 - [x] **Day 88** - Ansible Blockinfile Module
+- [x] **Day 89** - Manage Services Using Ansible
 
 ### 🔄 In Progress
-- [ ] **Day 89** - *Coming Soon*
+- [ ] **Day 90** - *Coming Soon*
 
 ### 📅 Upcoming Days (82-100)
 
-🔹 **Ansible (Days 89–93)**
-- [ ] **Day 89** - Manage Services Using Ansible
+🔹 **Ansible (Days 90–93)**
 - [ ] **Day 90** - Manage ACLs Using Ansible
 - [ ] **Day 91** - Ansible Lineinfile Module
 - [ ] **Day 92** - Manage Jinja2 Templates Using Ansible
@@ -151,9 +151,9 @@ Day - X/
 - Develop automation and scripting capabilities
 
 ## 📊 Challenge Statistics
-- **Days Completed**: 88/100
+- **Days Completed**: 89/100
 - **Success Rate**: 100%
-- **Current Streak**: 88 days
+- **Current Streak**: 89 days
 - **Start Date**: October 20, 2024
 - **Target Completion**: January 28, 2025
 
@@ -171,5 +171,5 @@ Day - X/
 Feel free to reach out if you have questions about any of the solutions or want to discuss DevOps practices!
 
 ---
-*Last Updated: January 17, 2026*
-*Challenge Progress: 88% Complete*
+*Last Updated: January 18, 2026*
+*Challenge Progress: 89% Complete*
