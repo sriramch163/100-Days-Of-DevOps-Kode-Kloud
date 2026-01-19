@@ -106,11 +106,12 @@ Day - X/
 - [x] **Day 87** - Install Packages Using Ansible
 - [x] **Day 88** - Ansible Blockinfile Module
 - [x] **Day 89** - Manage Services Using Ansible
+- [x] **Day 90** - Manage ACLs Using Ansible
 
 ### 🔄 In Progress
-- [ ] **Day 90** - *Coming Soon*
+- [ ] **Day 91** - *Coming Soon*
 
-### 📅 Upcoming Days (82-100)
+### 📅 Upcoming Days (91-100)
 
 🔹 **Ansible (Days 90–93)**
 - [ ] **Day 90** - Manage ACLs Using Ansible
@@ -151,9 +152,9 @@ Day - X/
 - Develop automation and scripting capabilities
 
 ## 📊 Challenge Statistics
-- **Days Completed**: 89/100
+- **Days Completed**: 90/100
 - **Success Rate**: 100%
-- **Current Streak**: 89 days
+- **Current Streak**: 90 days
 - **Start Date**: October 20, 2024
 - **Target Completion**: January 28, 2025
 
@@ -171,5 +172,5 @@ Day - X/
 Feel free to reach out if you have questions about any of the solutions or want to discuss DevOps practices!
 
 ---
-*Last Updated: January 18, 2026*
-*Challenge Progress: 89% Complete*
+*Last Updated: January 19, 2026*
+*Challenge Progress: 90% Complete*
