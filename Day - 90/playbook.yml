@@ -1,0 +1,57 @@
+---
+- name: Create files and apply ACL permissions
+  hosts: all
+  become: yes
+
+  tasks:
+
+    - name: Create blog.txt on app server 1
+      file:
+        path: /opt/finance/blog.txt
+        state: touch
+        owner: root
+        group: root
+      when: inventory_hostname == "stapp01"
+
+    - name: Set ACL read permission for group tony
+      acl:
+        path: /opt/finance/blog.txt
+        entity: tony
+        etype: group
+        permissions: r
+        state: present
+      when: inventory_hostname == "stapp01"
+
+    - name: Create story.txt on app server 2
+      file:
+        path: /opt/finance/story.txt
+        state: touch
+        owner: root
+        group: root
+      when: inventory_hostname == "stapp02"
+
+    - name: Set ACL read/write permission for user steve
+      acl:
+        path: /opt/finance/story.txt
+        entity: steve
+        etype: user
+        permissions: rw
+        state: present
+      when: inventory_hostname == "stapp02"
+
+    - name: Create media.txt on app server 3
+      file:
+        path: /opt/finance/media.txt
+        state: touch
+        owner: root
+        group: root
+      when: inventory_hostname == "stapp03"
+
+    - name: Set ACL read/write permission for group banner
+      acl:
+        path: /opt/finance/media.txt
+        entity: banner
+        etype: group
+        permissions: rw
+        state: present
+      when: inventory_hostname == "stapp03"
