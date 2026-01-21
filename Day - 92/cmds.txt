@@ -1,0 +1,4 @@
+vi roles/httpd/templates/index.html.j2
+vi roles/httpd/tasks/main.yml
+vi playbook.yml
+ansible-playbook -i inventory playbook.yml
