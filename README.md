@@ -109,11 +109,12 @@ Day - X/
 - [x] **Day 90** - Manage ACLs Using Ansible
 - [x] **Day 91** - Ansible Lineinfile Module
 - [x] **Day 92** - Manage Jinja2 Templates Using Ansible
+- [x] **Day 93** - Use Ansible Conditionals
 
 ### 🔄 In Progress
-- [ ] **Day 93** - *Coming Soon*
+- [ ] **Day 94** - *Coming Soon*
 
-### 📅 Upcoming Days (93-100)
+### 📅 Upcoming Days (94-100)
 
 🔹 **Ansible (Days 90–93)**
 - [ ] **Day 90** - Manage ACLs Using Ansible
@@ -154,9 +155,9 @@ Day - X/
 - Develop automation and scripting capabilities
 
 ## 📊 Challenge Statistics
-- **Days Completed**: 92/100
+- **Days Completed**: 93/100
 - **Success Rate**: 100%
-- **Current Streak**: 92 days
+- **Current Streak**: 93 days
 - **Start Date**: October 21, 2024
 - **Target Completion**: January 28, 2025
 
@@ -174,5 +175,5 @@ Day - X/
 Feel free to reach out if you have questions about any of the solutions or want to discuss DevOps practices!
 
 ---
-*Last Updated: January 21, 2026*
-*Challenge Progress: 92% Complete*
+*Last Updated: January 22, 2026*
+*Challenge Progress: 93% Complete*
