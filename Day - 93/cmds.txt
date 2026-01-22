@@ -1,0 +1,4 @@
+cd ansible
+cat inventory
+vi playbook.yml
+ansible-playbook -i inventory playbook.yml
