@@ -111,11 +111,12 @@ Day - X/
 - [x] **Day 92** - Manage Jinja2 Templates Using Ansible
 - [x] **Day 93** - Use Ansible Conditionals
 - [x] **Day 94** - Create VPC Using Terraform
+- [x] **Day 95** - Create Security Group Using Terraform
 
 ### 🔄 In Progress
-- [ ] **Day 95** - *Coming Soon*
+- [ ] **Day 96** - *Coming Soon*
 
-### 📅 Upcoming Days (95-100)
+### 📅 Upcoming Days (96-100)
 
 🔹 **Ansible (Days 90–93)**
 - [ ] **Day 90** - Manage ACLs Using Ansible
@@ -156,9 +157,9 @@ Day - X/
 - Develop automation and scripting capabilities
 
 ## 📊 Challenge Statistics
-- **Days Completed**: 94/100
+- **Days Completed**: 95/100
 - **Success Rate**: 100%
-- **Current Streak**: 94 days
+- **Current Streak**: 95 days
 - **Start Date**: October 21, 2024
 - **Target Completion**: January 28, 2025
 
@@ -176,5 +177,5 @@ Day - X/
 Feel free to reach out if you have questions about any of the solutions or want to discuss DevOps practices!
 
 ---
-*Last Updated: January 23, 2026*
-*Challenge Progress: 94% Complete*
+*Last Updated: January 24, 2026*
+*Challenge Progress: 95% Complete*
