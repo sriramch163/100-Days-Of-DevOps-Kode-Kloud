@@ -113,11 +113,12 @@ Day - X/
 - [x] **Day 94** - Create VPC Using Terraform
 - [x] **Day 95** - Create Security Group Using Terraform
 - [x] **Day 96** - Create EC2 Instance Using Terraform
+- [x] **Day 97** - Create IAM Policy Using Terraform
 
 ### 🔄 In Progress
-- [ ] **Day 97** - *Coming Soon*
+- [ ] **Day 98** - *Coming Soon*
 
-### 📅 Upcoming Days (97-100)
+### 📅 Upcoming Days (98-100)
 
 🔹 **Ansible (Days 90–93)**
 - [ ] **Day 90** - Manage ACLs Using Ansible
@@ -158,9 +159,9 @@ Day - X/
 - Develop automation and scripting capabilities
 
 ## 📊 Challenge Statistics
-- **Days Completed**: 96/100
+- **Days Completed**: 97/100
 - **Success Rate**: 100%
-- **Current Streak**: 96 days
+- **Current Streak**: 97 days
 - **Start Date**: October 21, 2024
 - **Target Completion**: January 28, 2025
 
@@ -178,5 +179,5 @@ Day - X/
 Feel free to reach out if you have questions about any of the solutions or want to discuss DevOps practices!
 
 ---
-*Last Updated: January 25, 2026*
-*Challenge Progress: 96% Complete*
+*Last Updated: January 26, 2026*
+*Challenge Progress: 97% Complete*
