@@ -114,11 +114,12 @@ Day - X/
 - [x] **Day 95** - Create Security Group Using Terraform
 - [x] **Day 96** - Create EC2 Instance Using Terraform
 - [x] **Day 97** - Create IAM Policy Using Terraform
+- [x] **Day 98** - Launch EC2 in a Private VPC Subnet Using Terraform
 
 ### 🔄 In Progress
-- [ ] **Day 98** - *Coming Soon*
+- [ ] **Day 99** - *Coming Soon*
 
-### 📅 Upcoming Days (98-100)
+### 📅 Upcoming Days (99-100)
 
 🔹 **Ansible (Days 90–93)**
 - [ ] **Day 90** - Manage ACLs Using Ansible
@@ -159,11 +160,11 @@ Day - X/
 - Develop automation and scripting capabilities
 
 ## 📊 Challenge Statistics
-- **Days Completed**: 97/100
+- **Days Completed**: 98/100
 - **Success Rate**: 100%
-- **Current Streak**: 97 days
+- **Current Streak**: 98 days
 - **Start Date**: October 21, 2024
-- **Target Completion**: January 28, 2025
+- **Target Completion**: January 29, 2025
 
 ## 🔗 Resources
 - [KodeKloud Platform](https://kodekloud.com/)
@@ -179,5 +180,5 @@ Day - X/
 Feel free to reach out if you have questions about any of the solutions or want to discuss DevOps practices!
 
 ---
-*Last Updated: January 26, 2026*
-*Challenge Progress: 97% Complete*
+*Last Updated: January 27, 2026*
+*Challenge Progress: 98% Complete*
