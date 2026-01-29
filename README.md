@@ -116,26 +116,8 @@ Day - X/
 - [x] **Day 97** - Create IAM Policy Using Terraform
 - [x] **Day 98** - Launch EC2 in a Private VPC Subnet Using Terraform
 - [x] **Day 99** - Attach IAM Policy for DynamoDB Access Using Terraform
+- [x] **Day 100** - Create and Configure CloudWatch Alarm Using Terraform
 
-### 🔄 In Progress
-- [ ] **Day 100** - *Coming Soon*
-
-### 📅 Upcoming Days (100)
-
-🔹 **Ansible (Days 90–93)**
-- [ ] **Day 90** - Manage ACLs Using Ansible
-- [ ] **Day 91** - Ansible Lineinfile Module
-- [ ] **Day 92** - Manage Jinja2 Templates Using Ansible
-- [ ] **Day 93** - Use Ansible Conditionals
-
-🔹 **Terraform & AWS (Days 94–100)**
-- [ ] **Day 94** - Create VPC Using Terraform
-- [ ] **Day 95** - Create Security Group Using Terraform
-- [ ] **Day 96** - Create EC2 Instance Using Terraform
-- [ ] **Day 97** - Create IAM Policy Using Terraform
-- [ ] **Day 98** - Launch EC2 in a Private VPC Subnet Using Terraform
-- [ ] **Day 99** - Attach IAM Policy for DynamoDB Access Using Terraform
-- [ ] **Day 100** - Create and Configure CloudWatch Alarm Using Terraform
 
 ## 🛠️ Technologies & Tools Covered
 - Linux System Administration
@@ -161,9 +143,9 @@ Day - X/
 - Develop automation and scripting capabilities
 
 ## 📊 Challenge Statistics
-- **Days Completed**: 99/100
+- **Days Completed**: 100/100
 - **Success Rate**: 100%
-- **Current Streak**: 99 days
+- **Current Streak**: 100 days
 - **Start Date**: October 21, 2024
 - **Target Completion**: January 29, 2025
 
@@ -181,5 +163,5 @@ Day - X/
 Feel free to reach out if you have questions about any of the solutions or want to discuss DevOps practices!
 
 ---
-*Last Updated: January 28, 2026*
-*Challenge Progress: 99% Complete*
+*Last Updated: January 29, 2026*
+*Challenge Progress: 100% Complete*
